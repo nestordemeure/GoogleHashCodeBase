@@ -9,6 +9,9 @@ Debug
 obj
 bin
 
+# results, not to be shared on github
+outputs/sources.zip
+*.txt
 
 ### Linux ###
 *~
