@@ -5,3 +5,5 @@ The code is already organised and some useful functions/extensions/libraries are
 - a sscanf 
 - a mutable/immutable min/max PriorityQueue
 - a mutableSet
+
+Compilation (on linux) puts a compressed copy of the current sources in the `outputs` folder.
